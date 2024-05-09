@@ -10,7 +10,7 @@ namespace MailtrapClient.Tests
     {
         private const string AuthenticationType = "Bearer";
         private const string ApiToken = "9fb679db6bc8f1f69d773cde52896917";
-        private const string RecipientEmail = "PLEASE PROVIDER YOUR RECIPIENT EMAIL!";
+        private const string RecipientEmail = "loyko.anastasiya@gmail.com";
 
         private readonly MailtrapEmailService _mailtrapEmailService;
 
